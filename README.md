@@ -6,14 +6,6 @@
 
 Simple date formatter application built with HTML, CSS, and JavaScript. Allows users to select different date formats from a dropdown menu and displays the current date in the selected format.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
 ## Demo
 
 ![Date Formatter Demo](demo.gif)
